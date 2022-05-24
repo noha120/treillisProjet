@@ -1,4 +1,4 @@
-package fr.insa.abouhamdan.treillisprojet;
+package fr.insa.abouhamdan.treillisprojet.gui;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

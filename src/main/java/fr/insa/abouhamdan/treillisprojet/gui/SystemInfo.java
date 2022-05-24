@@ -1,4 +1,4 @@
-package fr.insa.abouhamdan.treillisprojet;
+package fr.insa.abouhamdan.treillisprojet.gui;
 
 public class SystemInfo {
 
